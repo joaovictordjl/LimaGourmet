@@ -1,0 +1,39 @@
+html {
+    color: white;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 100%;
+    
+}
+
+.logo {
+    background-color: blueviolet;
+}
+.menu{
+    background-color:chartreuse ;
+}
+.imagem-principal{
+    max-width: 100%;
+}
+
+.cardapio{
+    background-color: aquamarine;
+    
+}
+.titulo-bolos{
+    background-color: chocolate;
+}
+.titulo-docinhos{
+
+    background-color: chocolate;
+}
+.promocoes{
+    background-color: aquamarine;
+}
+.empresa{
+    background-color: black;
+}
